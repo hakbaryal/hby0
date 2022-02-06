@@ -7,3 +7,7 @@ First repo!
 
 Subs...
 
+## Local developments
+
+1. Open index.html in the browser. 
+
